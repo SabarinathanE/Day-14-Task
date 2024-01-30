@@ -23,7 +23,7 @@ setTimeout((timer) => {
     
     setTimeout((timer) => {
     document.getElementById("main").innerText = "Happy Independence Day";
-    }, 10);
+    }, 800);
     }, 800);
     }, 800);
     }, 800);
@@ -34,5 +34,5 @@ setTimeout((timer) => {
     }, 800);
     }, 800);
     
-    }, 800);
+    }, 10);
     
